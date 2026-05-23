@@ -36,6 +36,15 @@ npx playwright show-report            # View HTML report
 
 ---
 
+## Screenshot     
+
+ <p align="center">
+  <img src="./assets/Test_Report.png" width="49%" height="400px" style="object-fit: cover;" />
+  <img src="./assets/Skip_tests.png" width="49%" height="400px" style="object-fit: cover;" />
+</p>
+
+---
+
 ## Author
 
 **Pratap Yadav**
